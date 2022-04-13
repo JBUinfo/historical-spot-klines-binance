@@ -13,6 +13,9 @@ Each temporality has his own folder and csv.
 
 ![alt text](https://github.com/JBUinfo/historical-spot-klines-binance/blob/main/Images/TempFolders.png?raw=true)
 
+Execute:
+![alt text](https://github.com/JBUinfo/historical-spot-klines-binance/blob/main/Images/ExecuteDownload.png?raw=true)
+
 # readCSV.py
 Just a function that returns a pandas dataframe with the CSV you choose.
 Example:
