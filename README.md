@@ -20,6 +20,7 @@ Execute:
 Just a function that returns a pandas dataframe with the CSV you choose.
 Example:
 
+    from readCSV import readCSV_Normalize
     trx_1d = readCSV_Normalize("TRXUSDT", "1d")
     
 # Install
